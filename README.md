@@ -9,8 +9,8 @@
 
 Example :
 ```python
-  x = 5
-  y = "John"
+  x = 1234
+  y = "Aman"
   print(x)
   print(y)
 ```
@@ -20,16 +20,16 @@ Example :
 Variables do not need to be declared with any particular type and can even change type after they have been set.
 
 ```
-x = 4   
-x = "Sally" 
+x = 78   
+x = "Illona" 
 print(x)
 ```
 
 String variables can be declared either by using single or double quotes:
 
 ```
-x = "John"  // is the same as
-x = 'John'
+x = "Aman"  // is the same as
+x = 'Aman'
 ```
 
 Variable Names
@@ -46,7 +46,7 @@ Python allows you to assign values to multiple variables in one line:
 Example
 
 ```
-x, y, z = "Orange", "Banana", "Cherry"
+x, y, z = "X", "Y", 5
 print(x)
 print(y)
 print(z)
@@ -56,7 +56,7 @@ And you can assign the same value to multiple variables in one line:
 
 ```
 Example
-x = y = z = "Orange"
+x = y = z = "O"
 print(x)
 print(y)
 print(z)
@@ -68,14 +68,14 @@ To combine both text and a variable, Python uses the + character:
 
 Example
 ```
-x = "awesome"
+x = "A"
 print("Python is " + x)
 ```
 
 You can also use the + character to add a variable to another variable:
 
 ```
-x = "Python is "
+x = "life is "
 y = "awesome"
 z =  x + y
 print(z)
@@ -83,14 +83,14 @@ print(z)
 
 For numbers, the + character works as a mathematical operator:
 ```
-x = 5
-y = 10
+x = 78
+y = 98
 print(x + y)
 ```
 If you try to combine a string and a number, Python will give you an error:
 
 ```
-x = 5
-y = "John"
+x = 20
+y = "Aman"
 print(x + y)
 ```
