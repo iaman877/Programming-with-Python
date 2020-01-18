@@ -44,6 +44,7 @@ Assign Value to Multiple Variables
 Python allows you to assign values to multiple variables in one line:
 
 Example
+
 ````
 x, y, z = "Orange", "Banana", "Cherry"
 print(x)
@@ -52,6 +53,7 @@ print(z)
 ```
 
 And you can assign the same value to multiple variables in one line:
+
 ```
 Example
 x = y = z = "Orange"
@@ -86,6 +88,7 @@ y = 10
 print(x + y)
 ```
 If you try to combine a string and a number, Python will give you an error:
+
 ```
 x = 5
 y = "John"
