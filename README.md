@@ -1,6 +1,6 @@
 # Programming-with-Python
 
- Variables
+ ## Variables
 
 
 * Variables are containers for storing data values.
@@ -92,4 +92,15 @@ print(x + y)
 x = 20
 y = "Aman"
 print(x + y)
+```
+## Global Variables
+ 
+ A variable declared outside of the function or in global scope is known as global variable. This means, global variable can be accessed inside or outside of the function.
+ 
+ ```
+ x = "aman"
+def func():
+  print("Python is " + x)
+  
+  func()
 ```
