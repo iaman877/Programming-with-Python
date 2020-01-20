@@ -156,7 +156,7 @@ def func():
   
   func()
 ```
-Standard data types
+## Standard data types
 
 Built-in Data Types
 In programming, data type is an important concept.
