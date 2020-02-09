@@ -21,3 +21,6 @@ print(a.lower())
 print(a.upper())
 print(a.replace("H", "J"))
 print(a.split(",")) # returns ['Hello', ' World!']
+#---------------------------------------------------------
+# updatation and deletion of a string is very Important
+# link : https://www.geeksforgeeks.org/python-strings/
