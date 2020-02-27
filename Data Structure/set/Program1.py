@@ -26,3 +26,4 @@ print("\nSet with the use of Numbers: ",set5)
 set6 = set([1, 2, 'Geeks', 4, 'For', 6, 'Geeks']) 
 print("\nSet with the use of Mixed Values",set6)
 
+![1](https://user-images.githubusercontent.com/49730521/75462421-3f53f280-59aa-11ea-86e4-eb02d5ee4892.PNG)
