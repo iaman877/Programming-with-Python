@@ -9,7 +9,7 @@ In python , a file operation takes place in the fallowing order
 * close the file 
 -----------------------------------------------------------------------------------------------------------------------
 
-There are basically  3 way to read any file  
+## Python File Read
 
 Method 1 
 
@@ -47,4 +47,12 @@ while line != '':
     line = obj.readline()
 obj.close()
 
+```
+## Python File Write
+
+Open the file "temp.txt" and append content to the file:
+```
+f = open("demofile2.txt", "a")
+f.write("Now the file has more content!")
+f.close()
 ```
