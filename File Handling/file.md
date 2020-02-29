@@ -52,7 +52,13 @@ obj.close()
 
 Open the file "temp.txt" and append content to the file:
 ```
-f = open("demofile2.txt", "a")
+f = open("temp.txt", "a")
 f.write("Now the file has more content!")
+f.close()
+```
+Open the file "demofile3.txt" and overwrite the content:
+```
+f = open("demofile3.txt", "w")
+f.write("Internet of things ")
 f.close()
 ```
