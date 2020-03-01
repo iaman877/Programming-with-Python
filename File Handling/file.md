@@ -62,3 +62,15 @@ f = open("demofile3.txt", "w")
 f.write("Internet of things ")
 f.close()
 ```
+## Relative and absolute path 
+
+* The absolute path start from the top most directory in the file System
+* The Relative path start from current directory
+
+```
+import os
+cwd = os.getcwd()
+print(cwd)
+```
+
+
