@@ -1,4 +1,4 @@
-// Compound interest 
+# Compound interest 
 
 def compound_interest(principal, rate, years):
     return principal*(1 + rate)**years
@@ -8,7 +8,6 @@ def compound_interest_recursive(principal, rate, years):
         return principle
     else:
         return 
-
 
 
 principal_str = input("Enter the principal ")
