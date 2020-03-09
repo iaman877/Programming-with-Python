@@ -1,0 +1,15 @@
+# recursive factorial 
+code :-
+
+def recur_factorial(n):
+   if n == 1:
+       return n
+   else:
+       return n*recur_factorial(n-1)
+num = 7
+if num < 0:
+   print(" Factorial does not exist for negative numbers")
+elif num == 0:
+   print("The factorial of 0 and  1 is : 1")
+else:
+   print("The factorial of", num, "is", recur_factorial(num))
