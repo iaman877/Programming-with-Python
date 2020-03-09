@@ -1,0 +1,18 @@
+# This identity has to be unique and constant for this object during the lifetime. 
+# Two objects with non-overlapping lifetimes may have the same id() value. 
+# If we relate this to C, then they are actually the memory address, here in Python it is the unique id. 
+# This function is generally used internally in Python.
+code :- 
+
+str1 = "Aman"
+str2 = "Aman"
+print(id(str1),id(str2)) 
+print(id(str1) == id(str2))    # This will return True 
+list1 = ["Aakash", "Aman", "Anshika"] 
+print(id(list1[0]),id(list1[2])) 
+print(id(list1[0])==id(list1[2]))  # This returns false 
+d = 1.1
+e = 1.1
+print(id(d),id(e))
+print(id(d) == id(e))   # This will return True 
+
