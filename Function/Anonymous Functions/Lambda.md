@@ -33,3 +33,9 @@ numbers2 = [4, 5, 6]
 result = map(lambda x, y: x + y, numbers1, numbers2) 
 print(list(result)) 
 ```
+## filter() in python
+The filter() method filters the given sequence with the help of a function that tests each element in the sequence to be true or not.
+
+### syntax:
+
+> filter(function, sequence)
