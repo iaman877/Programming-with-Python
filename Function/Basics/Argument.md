@@ -26,7 +26,8 @@ print(a)
 ### (3) Python Arbitrary Arguments
 
 You may not always know how many arguments you’ll get. In that case, you use an asterisk(*) before an argument name.
-example 1
+
+#### example 1
 
 ```
 def fun(*names):
@@ -35,9 +36,22 @@ def fun(*names):
 fun('Aman','Anshika','Aryan')  
 ```
 #### output :- 
+
+> Aman
+
+> Anshika
+
+> Aryan
+
+#### example 2
 ```
-Aman
-Anshika
-Aryan
+def person(name, *data):
+   print(name)
+   print(data)
+person('Aman',20,'Kanpur',70071)
 ```
+#### output :-
+> Aman
+
+> (20, 'Kanpur', 70071)
 
