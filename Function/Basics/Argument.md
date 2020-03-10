@@ -67,5 +67,22 @@ person('Aman',a = 20,b ='Kanpur',c = 70071)
 > Aman
 
 > {'a': 20, 'b': 'Kanpur', 'c': 70071}
+#### example 3
+```
+def person(name, **data):
+   print(name)
+   for i,j in data.items():
+      print(i,j)
+person('Aman',a = 20,b ='Kanpur',c = 70071)
+````
+#### output 
+
+> Aman
+
+> a 20
+
+> b Kanpur
+
+> c 70071
 
 
