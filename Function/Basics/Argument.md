@@ -16,3 +16,10 @@ greeting('Aman Bhardwaj')
 
 With keyword arguments in python, we can change the order of passing the arguments without any consequences. 
 
+```
+def divide(a,b):
+                return a/b
+a= divide(3,2)
+print(a)
+
+```
