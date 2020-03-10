@@ -40,6 +40,7 @@ The filter() method filters the given sequence with the help of a function that 
 ### syntax:
 
 > filter(function, sequence)
+
 ```
 def fun(variable): 
 	letters = ['a', 'e', 'i', 'o', 'u'] 
@@ -54,6 +55,7 @@ print('The filtered letters are:')
 for s in filtered: 
 	print(s) 
 ````
+
 ````
 # a list contains both even and odd numbers. 
 seq = [0, 1, 2, 3, 5, 8, 13] 
@@ -65,7 +67,8 @@ print(list(result))
 # result contains even numbers of the list 
 result = filter(lambda x: x % 2 == 0, seq) 
 print(list(result)) 
+
 ```
 
-## reduce()
+## reduce() in Python
 The reduce(fun,seq) function is used to apply a particular function passed in its argument to all of the list elements mentioned in the sequence passed along.This function is defined in “functools” module.
