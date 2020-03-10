@@ -55,3 +55,16 @@ person('Aman',20,'Kanpur',70071)
 
 > (20, 'Kanpur', 70071)
 
+#### example 3
+
+```
+def person(name, **data):
+   print(name)
+   print(data)
+person('Aman',a = 20,b ='Kanpur',c = 70071)
+```
+#### output 
+> Aman
+> {'a': 20, 'b': 'Kanpur', 'c': 70071}
+
+
