@@ -13,5 +13,6 @@ f = lambda a,b: a+b
 result = f(5,6)
 print(result)   # 11
 ```
+## map()
 
-
+![map()](https://user-images.githubusercontent.com/49730521/76297102-44377100-62dd-11ea-8e3a-b21a5e9f1099.PNG)
