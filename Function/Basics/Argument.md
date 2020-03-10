@@ -12,4 +12,7 @@ def greeting(name='User'):
                 print(f"Hello, {name}")
 greeting('Aman Bhardwaj')
 ```
-b.  Keyword Arguments
+(2).  Keyword Arguments
+
+With keyword arguments in python, we can change the order of passing the arguments without any consequences. 
+
