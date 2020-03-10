@@ -6,6 +6,12 @@
 ```
 f = lambda a: a*a
 result = f(5)
-print(result)
+print(result)   # 25
 ```
-> output is  25
+```
+f = lambda a,b: a+b
+result = f(5,6)
+print(result)   # 11
+```
+
+
