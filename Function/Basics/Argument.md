@@ -23,3 +23,13 @@ a= divide(3,2)
 print(a)
 
 ```
+(3) Python Arbitrary Arguments
+
+You may not always know how many arguments you’ll get. In that case, you use an asterisk(*) before an argument name.
+
+```
+def fun(*names):
+                for name in names:
+                                print(name)
+fun('Aman','Anshika','Aryan')
+```
