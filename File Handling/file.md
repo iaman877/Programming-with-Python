@@ -105,3 +105,9 @@ print(f.tell())  # prints current postion
 print(f.readline()) 
 f.close() 
 ```
+```
+f = open("data.txt", "rb")   # Opening "GfG.txt" text file in binary mode 
+f.seek(-10, 2)  # sets Reference point to tenth position to the left from end 
+print(f.tell())    # prints current position 
+f.close() 
+```
