@@ -91,5 +91,9 @@ print(f.tell())
    (1) Offset: Number of postions to move forward
    (2) from_what: It defines point of reference.
 * Returns: Does not return any value 
+#### The reference point is selected by the from_what argument. It accepts three values:
 
+   * 0: sets the reference point at the beginning of the file
+   * 1: sets the reference point at the current file position
+   * 2: sets the reference point at the end of the file 
 
