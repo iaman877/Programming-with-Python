@@ -85,13 +85,11 @@ print(f.tell())
 ```
 ## File seek() Method
 ### Syntax
-```
-f.seek(offset, from_what), where f is file pointer
 
-Parameters:
-Offset: Number of postions to move forward
-from_what: It defines point of reference.
+* f.seek(offset, from_what), where f is file pointer
+* Parameters:
+(1) Offset: Number of postions to move forward
+(2) from_what: It defines point of reference.
+* Returns: Does not return any value 
 
-Returns: Does not return any value 
-```
 
