@@ -75,3 +75,6 @@ print(cwd)
 
 ## File tell() Method
 The tell() method returns the current file position in a file stream.
+### Syntax
+> file.tell()
+
