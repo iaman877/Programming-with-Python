@@ -79,7 +79,7 @@ The tell() method returns the current file position in a file stream.
 > file.tell()
 
 ```
-f = open("demofile.txt", "r")
+f = open("temp.txt", "r")
 print(f.readline())
 print(f.tell())
 ```
