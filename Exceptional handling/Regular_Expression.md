@@ -1,4 +1,5 @@
 # Regular Expression in Python
+Module Regular Expressions(RE) specifies a set of strings(pattern) that matches it
 
 ## There are a total of 14 metacharacters and will be discussed as they follow into functions:
 
