@@ -73,4 +73,4 @@ cwd = os.getcwd()
 print(cwd)
 ```
 
-
+## File tell() Method
