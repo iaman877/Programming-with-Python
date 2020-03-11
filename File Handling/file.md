@@ -97,4 +97,11 @@ print(f.tell())
    * 1: sets the reference point at the current file position
    * 2: sets the reference point at the end of the file 
 #### By default from_what argument is set to 0.
+```
 
+f = open("temp.txt", "a") 
+f.seek(20)     # Second parameter is by default 0 
+print(f.tell())  # prints current postion 
+print(f.readline()) 
+f.close() 
+```
