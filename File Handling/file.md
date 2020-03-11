@@ -96,4 +96,5 @@ print(f.tell())
    * 0: sets the reference point at the beginning of the file
    * 1: sets the reference point at the current file position
    * 2: sets the reference point at the end of the file 
+#### By default from_what argument is set to 0.
 
