@@ -14,3 +14,5 @@ Module Regular Expressions(RE) specifies a set of strings(pattern) that matches 
 *  .+    One or more occurrences
 *  {}   Indicate number of occurrences of a preceding RE to match.
 *  ()   Enclose a group of REs
+
+refrence :- https://www.dataquest.io/blog/regex-cheatsheet/
