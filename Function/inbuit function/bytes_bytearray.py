@@ -6,8 +6,7 @@
 >>> bytes('hey','utf-16') # output : b'\xff\xfeh\x00e\x00y\x00'
 >>> bytes('hey','utf-32') # output : b'\xff\xfe\x00\x00h\x00\x00\x00e\x00\x00\x00y\x00\x00\x00'
 >>> bytes(1) # output : b'\x00'
->>> bytes(4)
-b'\x00\x00\x00\x00'
+>>> bytes(4) # output : b'\x00\x00\x00\x00'
 >>> bytes([1,2,3]) #iterables
 b'\x01\x02\x03'
 >>> bytearray([1,2,3]) #iterables
