@@ -1,8 +1,9 @@
 
 # Programming-with-Python
 1. [Operator](https://github.com/iaman877/Programming-with-Python/tree/master/Operators)
-1. [Data Structure]
+1. Data Structure
      1. [List](https://github.com/iaman877/Programming-with-Python/tree/master/Data%20Structure/List)
+     1. [Tuple]https://github.com/iaman877/Programming-with-Python/tree/master/Data%20Structure/tuple)
 
 ## Why python?
 
