@@ -6,6 +6,7 @@
      1. [Tuple](https://github.com/iaman877/Programming-with-Python/tree/master/Data%20Structure/tuple)
      1. [Dictionary](https://github.com/iaman877/Programming-with-Python/tree/master/Data%20Structure/Dictionary)
      1. [set](https://github.com/iaman877/Programming-with-Python/tree/master/Data%20Structure/set)
+1. [Control statement](https://github.com/iaman877/Programming-with-Python/tree/master/Control%20Statement/Loop%20with%20break)
 
 
 ## Why python?
