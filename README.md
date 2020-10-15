@@ -9,6 +9,7 @@
 1. [Control statement](https://github.com/iaman877/Programming-with-Python/tree/master/Control%20Statement/Loop%20with%20break)
 1. [String](https://github.com/iaman877/Programming-with-Python/tree/master/Stringk)
 1. [Function](https://github.com/iaman877/Programming-with-Python/tree/master/Function)
+1. [File Handling](https://github.com/iaman877/Programming-with-Python/tree/master/File%20Handling)
 
 ## Why python?
 
