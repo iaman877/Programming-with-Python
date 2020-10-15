@@ -10,7 +10,7 @@
 1. [String](https://github.com/iaman877/Programming-with-Python/tree/master/Stringk)
 1. [Function](https://github.com/iaman877/Programming-with-Python/tree/master/Function)
 1. [File Handling](https://github.com/iaman877/Programming-with-Python/tree/master/File%20Handling)
-
+1. [Exceptional handling](https://github.com/iaman877/Programming-with-Python/tree/master/Exceptional%20handling)
 ## Why python?
 
 * Python is a general-purpose language, which means it can be used to build just about anything, which will be made easy with the right tools/libraries.
