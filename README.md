@@ -11,6 +11,7 @@
 1. [Function](https://github.com/iaman877/Programming-with-Python/tree/master/Function)
     1. [Anonymous Functions](https://github.com/iaman877/Programming-with-Python/tree/master/Function/Anonymous%20Functions)
     1. [Recursion](https://github.com/iaman877/Programming-with-Python/tree/master/Function/Recursion)
+    1. [Inbuit function](https://github.com/iaman877/Programming-with-Python/tree/master/Function/inbuit%20function)
 1. [File Handling](https://github.com/iaman877/Programming-with-Python/tree/master/File%20Handling)
 1. [Exceptional handling](https://github.com/iaman877/Programming-with-Python/tree/master/Exceptional%20handling)
 ## Why python?
